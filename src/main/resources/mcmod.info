@@ -1,0 +1,21 @@
+[
+{
+  "modid": "CampCraft",
+  "name": "Camp Craft",
+  "description": "Warning contains deadly bears!",
+  "version": " 5.0",
+  "mcversion": "1.9.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "tomtomtom09"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
