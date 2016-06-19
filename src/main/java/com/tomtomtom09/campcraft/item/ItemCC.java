@@ -12,7 +12,7 @@ public class ItemCC extends Item
     public ItemCC()
     {
         super();
-        this.setCreativeTab(CCItemTab.EE3_TAB);
+        this.setCreativeTab(CCItemTab.CC_TAB);
     }
 
     protected String getUnwrappedUnlocalizedName(String unlocalizedName)

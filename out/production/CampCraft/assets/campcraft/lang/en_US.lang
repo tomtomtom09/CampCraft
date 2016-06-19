@@ -1,2 +1,15 @@
-item.campcraft:tentEquipment.name = Tent Equipment
-tile.campcraft:blockFabric.name = Fabric Block
+item.tentEquipment.name = Tent Equipment
+
+tile.tentFabric.name = Fabric Block
+
+tile.camoSmallTent.Jungle.name = Jungle
+tile.camoSmallTent.Desert.name = Desert
+tile.camoSmallTent.Tundra.name = Tundra
+tile.camoSmallTent.Nether.name = Nether
+tile.camoSmallTent.Pink.name = Pink
+tile.camoSmallTent.Yellow.name = Yellow
+tile.camoSmallTent.Brown.name = Brown
+tile.camoSmallTent.Black.name = Black
+tile.camoSmallTent.Blue.name = Blue
+tile.camoSmallTent.Green.name = Green
+tile.camoSmallTent.Converter.name = Converter

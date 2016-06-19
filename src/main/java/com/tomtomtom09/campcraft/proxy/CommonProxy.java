@@ -6,4 +6,9 @@ public abstract class CommonProxy
     {
 
     }
+
+    public void registerModelBakeryStuff()
+    {
+
+    }
 }

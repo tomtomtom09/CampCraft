@@ -48,6 +48,16 @@
     <option name="LOCALE" />
     <option name="OPEN_IN_BROWSER" value="true" />
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="tomdobson">
+      <words>
+        <w>camo</w>
+        <w>campcraft</w>
+        <w>tenttype</w>
+        <w>thirdperson</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CampCraft.iml" filepath="$PROJECT_DIR$/CampCraft.iml" />

@@ -38,6 +38,7 @@ public class CampCraft
     public void init(FMLInitializationEvent event)
     {
         proxy.registerRenders();
+        proxy.registerModelBakeryStuff();
     }
 
     @Mod.EventHandler

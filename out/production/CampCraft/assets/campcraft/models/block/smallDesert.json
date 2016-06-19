@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "campcraft:blocks/tent/smallDesert",
+    "front": "campcraft:blocks/tent/smallFront",
+    "side": "campcraft:blocks/tent/smallDesert"
+  }
+}

@@ -70,7 +70,7 @@ key_key.drop:16
 key_key.inventory:23
 key_key.chat:20
 key_key.playerlist:15
-key_key.pickItem:-98
+key_key.pickItem:38
 key_key.command:53
 key_key.screenshot:60
 key_key.togglePerspective:63
