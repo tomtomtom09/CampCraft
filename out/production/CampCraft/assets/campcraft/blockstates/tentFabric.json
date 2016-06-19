@@ -1,5 +1,14 @@
 {
     "variants": {
-        "normal": {"model": "campcraft:tentFabric"}
+        "type=jungle": {"model": "campcraft:fabricJungle"},
+        "type=desert": {"model": "campcraft:fabricDesert"},
+        "type=tundra": {"model": "campcraft:fabricTundra"},
+        "type=nether": {"model": "campcraft:fabricNether"},
+        "type=pink": {"model": "campcraft:fabricPink"},
+        "type=yellow": {"model": "campcraft:fabricYellow"},
+        "type=brown": {"model": "campcraft:fabricBrown"},
+        "type=black": {"model": "campcraft:fabricBlack"},
+        "type=blue": {"model": "campcraft:fabricBlue"},
+        "type=green": {"model": "campcraft:fabricGreen"}
     }
 }

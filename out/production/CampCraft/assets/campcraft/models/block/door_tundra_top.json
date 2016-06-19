@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "campcraft:blocks/tent/door_tundra_lower",
+        "top": "campcraft:blocks/tent/door_tundra_upper"
+    }
+}

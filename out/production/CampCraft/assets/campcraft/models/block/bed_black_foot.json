@@ -1,0 +1,25 @@
+{
+    "textures": {
+        "particle": "campcraft:blocks/tent/bed_black_feet_top",
+        "top": "campcraft:blocks/tent/bed_black_feet_top",
+        "bottom": "campcraft:blocks/tent/bed_black_feet_top",
+        "side": "campcraft:blocks/tent/bed_black_side"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 4, 16 ],
+            "faces": {
+                "up":    { "uv": [  0, 16, 16,  0 ], "texture": "#top", "rotation": 90 },
+                "north": { "uv": [  0,  12, 16, 16 ], "texture": "#side" },
+                "west":  { "uv": [  0,  12, 16, 16 ], "texture": "#side" },
+                "east":  { "uv": [ 16,  12,  0, 16 ], "texture": "#side" }
+            }
+        },
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 0, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" }
+            }
+        }
+    ]
+}
