@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "campcraft:smallNether" },
+        "facing=south": { "model": "campcraft:smallNether", "y": 180 },
+        "facing=west":  { "model": "campcraft:smallNether", "y": 270 },
+        "facing=east":  { "model": "campcraft:smallNether", "y": 90 }
+    }
+}

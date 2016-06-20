@@ -2,253 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2375f6-ac6e-4481-9d51-8bcb3103e4fa" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/block/tentFabric.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/tentFabric.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Black_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Black_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Black_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Black_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Blue_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Blue_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Blue_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Blue_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Brown_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Brown_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Brown_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Brown_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Desert_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Desert_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Desert_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Desert_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Green_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Green_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Green_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Green_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Jungle_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Jungle_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Jungle_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Jungle_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Nether_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Nether_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Nether_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Nether_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Pink_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Pink_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Pink_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Pink_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Tundra_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Tundra_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Tundra_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Tundra_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Yellow_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Yellow_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Yellow_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Door_Yellow_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Desert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Nether.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Tundra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Fabric_Yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Black_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Black_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Black_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Blue_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Blue_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Blue_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Brown_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Brown_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Brown_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Desert_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Desert_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Desert_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Green_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Green_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Green_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Nether_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Nether_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Nether_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Pink_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Pink_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Pink_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Tundra_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Tundra_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Tundra_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Yellow_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Yellow_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Sleeping_Yellow_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Desert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Front.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Nether.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Tundra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/Small_Yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/blocks/tentFabric.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Desert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Nether.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Tundra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Door_Yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Desert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Nether.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Tundra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/textures/items/Sleepingbag_Yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/tentFabric.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/tentFabric.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Black_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Black_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Black_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Black_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Blue_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Blue_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Blue_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Blue_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Brown_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Brown_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Brown_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Brown_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Desert_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Desert_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Desert_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Desert_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Green_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Green_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Green_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Green_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Jungle_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Jungle_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Jungle_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Jungle_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Nether_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Nether_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Nether_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Nether_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Pink_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Pink_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Pink_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Pink_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Tundra_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Tundra_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Tundra_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Tundra_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Yellow_Closed_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Yellow_Closed_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Yellow_Open_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Door_Yellow_Open_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Desert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Nether.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Tundra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Fabric_Yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Black_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Black_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Black_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Blue_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Blue_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Blue_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Brown_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Brown_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Brown_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Desert_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Desert_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Desert_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Green_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Green_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Green_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Nether_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Nether_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Nether_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Pink_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Pink_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Pink_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Tundra_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Tundra_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Tundra_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Yellow_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Yellow_Side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Sleeping_Yellow_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Desert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Front.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Nether.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Tundra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/Small_Yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/blocks/tentFabric.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Desert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Nether.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Tundra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Door_Yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Desert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Nether.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Tundra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/textures/items/Sleepingbag_Yellow.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/CampCraft.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/CampCraft.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockFabric.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockFabric.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/creativetab/CCItemTab.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/creativetab/CCItemTab.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/blockstates/bedPink.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/blockstates/camoSmallTent.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallBlack.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallBlue.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallBrown.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallConverter.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallDesert.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallGreen.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallJungle.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallNether.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallTundra.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/models/item/smallYellow.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/handler/EnumTentType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/handler/EnumTentType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedPink.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/camoSmallTent.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallBlack.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallBlue.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallBrown.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallConverter.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallDesert.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallGreen.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallJungle.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallNether.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallTundra.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallYellow.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCamoTent.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCamoTent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCamoTentBase.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCamoTentBase.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/init/ModBlocks.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/init/ModBlocks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/init/ModItems.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/init/ModItems.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/item/ItemCC.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/item/ItemCC.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/proxy/ClientProxy.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/proxy/ClientProxy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/proxy/CommonProxy.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/proxy/CommonProxy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-06-1.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-06-1.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-06-2.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-06-2.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-06-3.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-06-3.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-06-4.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-06-4.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-06-5.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-06-5.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-06-6.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-06-6.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-06-7.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-06-7.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/DIM-1/data/villages_nether.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/DIM-1/data/villages_nether.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/DIM1/data/villages_end.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/DIM1/data/villages_end.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/data/Village.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/data/Village.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/level.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/level.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/level.dat_old" afterPath="$PROJECT_DIR$/run/saves/Test World/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/2b1d2ae0-1745-3741-8c22-8b6dbf15a7e5.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/2b1d2ae0-1745-3741-8c22-8b6dbf15a7e5.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/3e863622-2d77-3b8e-b124-c7923d3d13f8.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/3e863622-2d77-3b8e-b124-c7923d3d13f8.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/618cb0ab-8f59-3811-afad-31574b3b487c.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/618cb0ab-8f59-3811-afad-31574b3b487c.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/f20c75ef-12a1-38bf-8d5f-554e39628d6e.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/f20c75ef-12a1-38bf-8d5f-554e39628d6e.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/1acd01f1-1c8b-3758-959b-fdf4d16bd5de.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/1acd01f1-1c8b-3758-959b-fdf4d16bd5de.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/7b77b149-a375-3a22-9e39-dd5aae3f0426.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/7b77b149-a375-3a22-9e39-dd5aae3f0426.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-1.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-1.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-2.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-2.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-3.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-3.mca" />
@@ -258,31 +48,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-3.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-3.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.0.0.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.0.0.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/session.lock" afterPath="$PROJECT_DIR$/run/saves/Test World/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CampCraft.ipr" afterPath="$PROJECT_DIR$/CampCraft.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CampCraft.iws" afterPath="$PROJECT_DIR$/CampCraft.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/blockstates/tentFabric.json" afterPath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/blockstates/tentFabric.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/lang/en_US.lang" afterPath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/lang/en_US.lang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/splash.properties" afterPath="$PROJECT_DIR$/run/config/splash.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/latest.log" afterPath="$PROJECT_DIR$/run/logs/latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/options.txt" afterPath="$PROJECT_DIR$/run/options.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/2b1d2ae0-1745-3741-8c22-8b6dbf15a7e5.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/2b1d2ae0-1745-3741-8c22-8b6dbf15a7e5.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/3e863622-2d77-3b8e-b124-c7923d3d13f8.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/3e863622-2d77-3b8e-b124-c7923d3d13f8.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/618cb0ab-8f59-3811-afad-31574b3b487c.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/618cb0ab-8f59-3811-afad-31574b3b487c.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/f20c75ef-12a1-38bf-8d5f-554e39628d6e.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/f20c75ef-12a1-38bf-8d5f-554e39628d6e.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/1acd01f1-1c8b-3758-959b-fdf4d16bd5de.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/1acd01f1-1c8b-3758-959b-fdf4d16bd5de.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/7b77b149-a375-3a22-9e39-dd5aae3f0426.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/7b77b149-a375-3a22-9e39-dd5aae3f0426.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/usercache.json" afterPath="$PROJECT_DIR$/run/usercache.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/usernamecache.json" afterPath="$PROJECT_DIR$/run/usernamecache.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/CampCraft.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/CampCraft.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockFabric.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockFabric.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/creativetab/CCItemTab.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/creativetab/CCItemTab.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockFabricDoor.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockFabricDoor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModBlocks.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModBlocks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemCC.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemCC.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/ClientProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/ClientProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/CommonProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/CommonProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/tentFabric.json" afterPath="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/tentFabric.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang" />
     </list>
     <ignored path="CampCraft.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -341,28 +118,78 @@
     <favorites_list name="CampCraft" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EnumFabricType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/handler/EnumFabricType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientProxy.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/ClientProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.4792531">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="ModBlocks.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModBlocks.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BlockFabricDoor.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockFabricDoor.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="smallPink.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallPink.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="EnumFabricType.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/handler/EnumFabricType.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pumpkin.json" pinned="false" current-in-tab="true">
+            <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722.jar!/assets/minecraft/models/item/pumpkin.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pumpkin.json" pinned="false" current-in-tab="false">
+            <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722.jar!/assets/minecraft/blockstates/pumpkin.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -398,24 +225,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/door_nether_top.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/door_nether_bottom_rh.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/door_nether_bottom.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/door_pink_bottom_rh.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/door_pink_bottom.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/door_black_bottom_rh.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/door_black_bottom.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemSleepingBag.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/bedJungleItem.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockSleepingBag.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedJungle.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_jungle_foot.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_jungle_head.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModBlocks.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedYellow.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedTundra.json" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedPink.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedNether.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedBlack.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedBlue.json" />
@@ -449,6 +260,22 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/bedTundraItem.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/bedPinkItem.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/bedDesertItem.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedPink.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/ClientProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/camoSmallTent.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentYellow.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentTundra.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentPink.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentNether.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentGreen.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentDesert.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentBrown.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentBlue.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentBlack.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModBlocks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockFabricDoor.java" />
       </list>
     </option>
   </component>
@@ -494,11 +321,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Tests" />
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -569,7 +403,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="minecraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -577,7 +451,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="block" />
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="minecraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -619,8 +523,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets.campcraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CampCraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets.campcraft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -949,32 +897,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="681" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32597622" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23089983" sideWeight="0.5048465" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23089983" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32656515" sideWeight="0.4951535" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27843803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32597622" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17770597" sideWeight="0.49227372" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22132471" sideWeight="0.49227372" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23089983" sideWeight="0.49353796" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24798061" sideWeight="0.50772625" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32597622" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27843803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23089983" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1022,14 +970,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
@@ -1039,234 +979,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemFabricDoor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemSleepingBag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722-sources.jar!/net/minecraft/item/ItemBed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="78" column="1" selection-start-line="20" selection-start-column="4" selection-end-line="78" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722.jar!/assets/minecraft/blockstates/bed.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/doorBlack.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="89" selection-start-line="2" selection-start-column="79" selection-end-line="2" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722-sources.jar!/net/minecraft/block/BlockBed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="173" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="339" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockSleepingBag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedYellow.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedTundra.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedPink.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedNether.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedJungle.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedBlue.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedBrown.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedDesert.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedGreen.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_blue_head.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_blue_foot.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_black_head.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_black_foot.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_green_head.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_green_foot.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_desert_head.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_desert_foot.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_brown_head.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_brown_foot.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_pink_head.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_pink_foot.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_nether_head.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_nether_foot.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/bed_jungle_head.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-24">
@@ -1372,14 +1084,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/handler/EnumFabricType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/bedDesertItem.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1394,10 +1098,280 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/IMetaBlockName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/ItemBlockMeta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedPink.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/block/smallJungle.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722.jar!/assets/minecraft/models/block/pumpkin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/ClientProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722-sources.jar!/net/minecraft/block/BlockPumpkin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-639">
+          <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="148" selection-end-column="5" />
+          <folding>
+            <element signature="e#6414#6415#0" expanded="true" />
+            <element signature="e#6494#6495#0" expanded="true" />
+            <element signature="e#6545#6546#0" expanded="true" />
+            <element signature="e#6614#6615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722-sources.jar!/net/minecraft/block/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="573" column="16" selection-start-line="573" selection-start-column="16" selection-end-line="573" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/camoSmallTent.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentYellow.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentTundra.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentNether.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentJungle.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentGreen.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentDesert.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentBrown.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentBlue.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallBrown.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallBlue.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/handler/EnumFabricType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockFabric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentPink.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/tentFabric.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722-sources.jar!/net/minecraft/block/BlockButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="160" column="27" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722-sources.jar!/net/minecraft/world/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="880" column="23" selection-start-line="880" selection-start-column="23" selection-end-line="880" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/smallTentBlack.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockFabricDoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722.jar!/assets/minecraft/blockstates/pumpkin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/forgeSrc-1.8.9-11.15.1.1722.jar!/assets/minecraft/models/item/pumpkin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/smallPink.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding />
         </state>
       </provider>

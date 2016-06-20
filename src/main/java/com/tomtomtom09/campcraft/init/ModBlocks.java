@@ -2,10 +2,8 @@ package com.tomtomtom09.campcraft.init;
 
 import com.tomtomtom09.campcraft.block.*;
 import com.tomtomtom09.campcraft.handler.EnumFabricType;
-import com.tomtomtom09.campcraft.handler.EnumTentType;
 import com.tomtomtom09.campcraft.reference.Reference;
 import net.minecraft.block.Block;
-import net.minecraft.block.material.Material;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.model.ModelResourceLocation;
 import net.minecraft.item.Item;
@@ -15,7 +13,7 @@ public class ModBlocks
 {
     /** Tent Update */
     public static Block tentFabric;
-    public static Block camoSmallTent;
+    public static Block jungleSmallTent, desertSmallTent, tundraSmallTent, netherSmallTent, pinkSmallTent, yellowSmallTent, brownSmallTent, blackSmallTent, blueSmallTent, greenSmallTent;
     public static Block jungleDoorBlock, desertDoorBlock, tundraDoorBlock, netherDoorBlock, pinkDoorBlock, yellowDoorBlock, brownDoorBlock, blackDoorBlock, blueDoorBlock, greenDoorBlock;
     public static Block jungleBedBlock, desertBedBlock, tundraBedBlock, netherBedBlock, pinkBedBlock, yellowBedBlock, brownBedBlock, blackBedBlock, blueBedBlock, greenBedBlock;
 
@@ -23,7 +21,17 @@ public class ModBlocks
     {
         /**Tent Update*/
         tentFabric = new BlockFabric("tentFabric");
-        camoSmallTent = new BlockCamoTent("camoSmallTent", 1);
+        /**Small Tent*/
+        jungleSmallTent = (new BlockCamoTent("smallTentJungle", 1));
+        desertSmallTent = (new BlockCamoTent("smallTentDesert", 1));
+        tundraSmallTent = (new BlockCamoTent("smallTentTundra", 1));
+        netherSmallTent = (new BlockCamoTent("smallTentNether", 1));
+        pinkSmallTent = (new BlockCamoTent("smallTentPink", 1));
+        yellowSmallTent = (new BlockCamoTent("smallTentYellow", 1));
+        brownSmallTent = (new BlockCamoTent("smallTentBrown", 1));
+        blackSmallTent = (new BlockCamoTent("smallTentBlack", 1));
+        blueSmallTent = (new BlockCamoTent("smallTentBlue", 1));
+        greenSmallTent = (new BlockCamoTent("smallTentGreen", 1));
         /**Door*/
         jungleDoorBlock = (new BlockFabricDoor("doorJungle"));
         desertDoorBlock = (new BlockFabricDoor("doorDesert"));
@@ -52,7 +60,17 @@ public class ModBlocks
     {
         /**Tent Update*/
         GameRegistry.registerBlock(tentFabric, ItemBlockMeta.class, "tentFabric");
-        GameRegistry.registerBlock(camoSmallTent, ItemBlockMeta.class, "camoSmallTent");
+        /**Small Tent*/
+        GameRegistry.registerBlock(jungleSmallTent, "smallTentJungle");
+        GameRegistry.registerBlock(desertSmallTent, "smallTentDesert");
+        GameRegistry.registerBlock(tundraSmallTent, "smallTentTundra");
+        GameRegistry.registerBlock(netherSmallTent, "smallTentNether");
+        GameRegistry.registerBlock(pinkSmallTent, "smallTentPink");
+        GameRegistry.registerBlock(yellowSmallTent, "smallTentYellow");
+        GameRegistry.registerBlock(brownSmallTent, "smallTentBrown");
+        GameRegistry.registerBlock(blackSmallTent, "smallTentBlack");
+        GameRegistry.registerBlock(blueSmallTent, "smallTentBlue");
+        GameRegistry.registerBlock(greenSmallTent, "smallTentGreen");
         /**Door*/
         GameRegistry.registerBlock(jungleDoorBlock, "doorJungle");
         GameRegistry.registerBlock(desertDoorBlock, "doorDesert");
@@ -79,16 +97,22 @@ public class ModBlocks
 
     public  static void registerRenders()
     {
-        /**Small Tent*/
-        for(int i = 0; i < EnumTentType.values().length; i++)
-        {
-            registerRender(camoSmallTent, i,"small" + EnumTentType.values()[i].getName());
-        }
         /**Fabric Blocks*/
         for(int i = 0; i < EnumFabricType.values().length; i++)
         {
             registerRender(tentFabric, i,"fabric" + EnumFabricType.values()[i].getName());
         }
+        /**Small Tent*/
+        registerRender(jungleSmallTent);
+        registerRender(desertSmallTent);
+        registerRender(tundraSmallTent);
+        registerRender(netherSmallTent);
+        registerRender(pinkSmallTent);
+        registerRender(yellowSmallTent);
+        registerRender(brownSmallTent);
+        registerRender(blackSmallTent);
+        registerRender(blueSmallTent);
+        registerRender(greenSmallTent);
         /**Doors*/
         registerRender(jungleDoorBlock);
         registerRender(desertDoorBlock);
