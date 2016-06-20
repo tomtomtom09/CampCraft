@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "campcraft:smallPink" },
+        "facing=south": { "model": "campcraft:smallPink", "y": 180 },
+        "facing=west":  { "model": "campcraft:smallPink", "y": 270 },
+        "facing=east":  { "model": "campcraft:smallPink", "y": 90 }
+    }
+}

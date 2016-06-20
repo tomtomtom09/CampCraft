@@ -13,7 +13,6 @@ public class BlockFabricDoor extends BlockDoor
     {
         super(Material.cloth);
         this.setUnlocalizedName(unlocalizedName);
-        this.setCreativeTab(CCItemTab.CC_TAB);
     }
 
     @SideOnly(Side.CLIENT)
