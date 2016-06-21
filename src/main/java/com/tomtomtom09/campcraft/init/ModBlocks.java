@@ -22,16 +22,16 @@ public class ModBlocks
         /**Tent Update*/
         tentFabric = new BlockFabric("tentFabric");
         /**Small Tent*/
-        jungleSmallTent = (new BlockCamoTent("smallTentJungle", 1));
-        desertSmallTent = (new BlockCamoTent("smallTentDesert", 1));
-        tundraSmallTent = (new BlockCamoTent("smallTentTundra", 1));
-        netherSmallTent = (new BlockCamoTent("smallTentNether", 1));
-        pinkSmallTent = (new BlockCamoTent("smallTentPink", 1));
-        yellowSmallTent = (new BlockCamoTent("smallTentYellow", 1));
-        brownSmallTent = (new BlockCamoTent("smallTentBrown", 1));
-        blackSmallTent = (new BlockCamoTent("smallTentBlack", 1));
-        blueSmallTent = (new BlockCamoTent("smallTentBlue", 1));
-        greenSmallTent = (new BlockCamoTent("smallTentGreen", 1));
+        jungleSmallTent = (new BlockCamoTent("smallTentJungle", 1, 1));
+        desertSmallTent = (new BlockCamoTent("smallTentDesert", 1, 2));
+        tundraSmallTent = (new BlockCamoTent("smallTentTundra", 1, 3));
+        netherSmallTent = (new BlockCamoTent("smallTentNether", 1, 4));
+        pinkSmallTent = (new BlockCamoTent("smallTentPink", 1, 5));
+        yellowSmallTent = (new BlockCamoTent("smallTentYellow", 1, 6));
+        brownSmallTent = (new BlockCamoTent("smallTentBrown", 1, 7));
+        blackSmallTent = (new BlockCamoTent("smallTentBlack", 1, 8));
+        blueSmallTent = (new BlockCamoTent("smallTentBlue", 1, 9));
+        greenSmallTent = (new BlockCamoTent("smallTentGreen", 1, 10));
         /**Door*/
         jungleDoorBlock = (new BlockFabricDoor("doorJungle"));
         desertDoorBlock = (new BlockFabricDoor("doorDesert"));

@@ -28,14 +28,16 @@ public class BlockCamoTentBase extends BlockDirectional
     private int[] areaId;
     private String Error;
     private int TentSize;
+    private int TentType;
 
-    public BlockCamoTentBase(String unlocalizedName, int tentSize)
+    public BlockCamoTentBase(String unlocalizedName, int tentSize, int tentType)
     {
         super(Material.cloth);
         this.setUnlocalizedName(unlocalizedName);
         this.setCreativeTab(CCItemTab.CC_TAB);
         this.setDefaultState(this.blockState.getBaseState().withProperty(FACING, EnumFacing.NORTH));
         TentSize = tentSize;
+        TentType = tentType;
         if (TentSize == 1)
         {
             Lvl0Id = new int[24];
