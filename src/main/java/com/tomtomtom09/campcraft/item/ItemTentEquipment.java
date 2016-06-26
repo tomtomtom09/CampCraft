@@ -8,6 +8,5 @@ public class ItemTentEquipment extends ItemCC
     public ItemTentEquipment()
     {
         super();
-        //this.setUnlocalizedName("tentEquipment");
     }
 }

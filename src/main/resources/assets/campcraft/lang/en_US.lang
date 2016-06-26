@@ -13,3 +13,10 @@ tile.camoSmallTent.Black.name = Black
 tile.camoSmallTent.Blue.name = Blue
 tile.camoSmallTent.Green.name = Green
 tile.camoSmallTent.Converter.name = Converter
+
+tile.tent.lvl1=Tentspace is not clear at level 1
+tile.tent.lvl2=Tentspace is not clear at level 2
+tile.tent.lvl3=Tentspace is not clear at level 3
+tile.tent.lvl4=Tentspace is not clear at level 4
+
+tile.tent.foundation=Foundation missing or not sturdy enough
