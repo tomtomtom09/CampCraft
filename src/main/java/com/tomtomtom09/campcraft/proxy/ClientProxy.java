@@ -5,6 +5,7 @@ import com.tomtomtom09.campcraft.init.ModItems;
 import net.minecraft.client.resources.model.ModelBakery;
 import net.minecraft.item.Item;
 import net.minecraft.util.ResourceLocation;
+import net.minecraftforge.client.model.ModelLoader;
 
 public class ClientProxy extends CommonProxy
 {

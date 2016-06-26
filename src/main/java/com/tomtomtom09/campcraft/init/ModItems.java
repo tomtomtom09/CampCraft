@@ -1,5 +1,6 @@
 package com.tomtomtom09.campcraft.init;
 
+import com.tomtomtom09.campcraft.item.ItemCampHammer;
 import com.tomtomtom09.campcraft.item.ItemFabricDoor;
 import com.tomtomtom09.campcraft.item.ItemSleepingBag;
 import com.tomtomtom09.campcraft.item.ItemTentEquipment;
@@ -55,6 +56,8 @@ public class ModItems
     {
         /**Tent Update*/
         tentEquipment = new ItemTentEquipment().setUnlocalizedName("tentEquipment");
+        campHammer = new ItemCampHammer().setUnlocalizedName("campHammer");
+
         /**Door*/
         jungleDoorItem = new ItemFabricDoor(ModBlocks.jungleDoorBlock).setUnlocalizedName("doorJungleItem");
         desertDoorItem = new ItemFabricDoor(ModBlocks.desertDoorBlock).setUnlocalizedName("doorDesertItem");
@@ -84,6 +87,7 @@ public class ModItems
     {
         /**Tent Update*/
         GameRegistry.registerItem(tentEquipment, tentEquipment.getUnlocalizedName().substring(5));
+        GameRegistry.registerItem(campHammer, campHammer.getUnlocalizedName().substring(5));
         /**Door*/
         GameRegistry.registerItem(jungleDoorItem, jungleDoorItem.getUnlocalizedName().substring(5));
         GameRegistry.registerItem(desertDoorItem, desertDoorItem.getUnlocalizedName().substring(5));
@@ -112,6 +116,7 @@ public class ModItems
     {
         /**Tent Update*/
         registerRenders(tentEquipment);
+        registerRenders(campHammer);
         /**Door*/
         registerRenders(jungleDoorItem);
         registerRenders(desertDoorItem);
@@ -141,46 +146,3 @@ public class ModItems
         Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(item,0,new ModelResourceLocation(Reference.MOD_ID + ":" + item.getUnlocalizedName().substring(5), "inventory"));
     }
 }
-
-
-
-
-
-
-
-/**
- *
- *
- *
- public static void init()
- {
- //GameRegistry.registerItem(tentEquipment, "tentEquipment");
- }
- * public static final ItemCC tentEquipment = new ItemTentEquipment();
- public static Item TentEquipment;
- public static Item TentLargeEquipment;
- //Tent Hammer
- public static Item CampHammer;
- //Sleeping Bag
- public static Item JungleSleepingBagItem;
- public static Item DesertSleepingBagItem;
- public static Item TundraSleepingBagItem;
- public static Item NetherSleepingBagItem;
- public static Item PinkSleepingBagItem;
- public static Item YellowSleepingBagItem;
- public static Item BrownSleepingBagItem;
- public static Item BlackSleepingBagItem;
- public static Item BlueSleepingBagItem;
- public static Item GreenSleepingBagItem;
- //Tent Doors Item
- public static Item JungleDoorItem;
- public static Item DesertDoorItem;
- public static Item TundraDoorItem;
- public static Item NetherDoorItem;
- public static Item PinkDoorItem;
- public static Item YellowDoorItem;
- public static Item BrownDoorItem;
- public static Item BlackDoorItem;
- public static Item BlueDoorItem;
- public static Item GreenDoorItem;
- */
