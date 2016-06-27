@@ -4,49 +4,32 @@
     <list default="true" id="aa2375f6-ac6e-4481-9d51-8bcb3103e4fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCamoTent.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCamoTent.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCamoTentBase.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/block/BlockCamoTentBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/proxy/ClientProxy.class" afterPath="$PROJECT_DIR$/out/production/CampCraft/com/tomtomtom09/campcraft/proxy/ClientProxy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-21-1.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-21-1.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-21-2.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-21-2.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-21-3.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-21-3.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-21-4.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-21-4.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-21-5.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-21-5.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-21-6.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-21-6.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-06-21-7.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-06-21-7.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/DIM-1/data/villages_nether.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/DIM-1/data/villages_nether.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/DIM1/data/villages_end.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/DIM1/data/villages_end.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/level.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/level.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/level.dat_old" afterPath="$PROJECT_DIR$/run/saves/Test World/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/1ba3e813-bc3f-3c63-a07a-82ed99656a6d.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/1ba3e813-bc3f-3c63-a07a-82ed99656a6d.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/29b47250-4236-34ae-8b46-7341b800b727.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/29b47250-4236-34ae-8b46-7341b800b727.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/383d2669-dd1d-3bb6-9599-ddb9736fd75c.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/383d2669-dd1d-3bb6-9599-ddb9736fd75c.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/3f18158e-f2c1-3129-a134-25632e6b98da.dat" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/3f18158e-f2c1-3129-a134-25632e6b98da.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-1.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-2.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-2.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-3.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-3.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.0.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.0.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-1.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-2.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-2.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-3.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-3.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.0.0.mca" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.0.0.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/session.lock" afterPath="$PROJECT_DIR$/run/saves/Test World/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CampCraft.ipr" afterPath="$PROJECT_DIR$/CampCraft.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/DIM-1/data/villages_nether.dat" afterPath="$PROJECT_DIR$/run/saves/New World-/DIM-1/data/villages_nether.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/DIM1/data/villages_end.dat" afterPath="$PROJECT_DIR$/run/saves/New World-/DIM1/data/villages_end.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/data/Village.dat" afterPath="$PROJECT_DIR$/run/saves/New World-/data/Village.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/New World-/data/villages.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/level.dat" afterPath="$PROJECT_DIR$/run/saves/New World-/level.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/level.dat_old" afterPath="$PROJECT_DIR$/run/saves/New World-/level.dat_old" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/playerdata/eb7081a5-32ec-3752-9cbc-963a701e6fdd.dat" afterPath="$PROJECT_DIR$/run/saves/New World-/playerdata/eb7081a5-32ec-3752-9cbc-963a701e6fdd.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.-1.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.-1.-1.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.-1.0.mca" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.-1.0.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.-2.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.-2.-1.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.-2.-2.mca" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.-2.-2.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.-2.0.mca" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.-2.0.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.-3.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.-3.-1.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.-3.-2.mca" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.-3.-2.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/region/r.-3.0.mca" afterPath="$PROJECT_DIR$/run/saves/New World-/region/r.-3.0.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/session.lock" afterPath="$PROJECT_DIR$/run/saves/New World-/session.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CampCraft.iws" afterPath="$PROJECT_DIR$/CampCraft.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/lang/en_US.lang" afterPath="$PROJECT_DIR$/out/production/CampCraft/assets/campcraft/lang/en_US.lang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/splash.properties" afterPath="$PROJECT_DIR$/run/config/splash.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/latest.log" afterPath="$PROJECT_DIR$/run/logs/latest.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/options.txt" afterPath="$PROJECT_DIR$/run/options.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/1ba3e813-bc3f-3c63-a07a-82ed99656a6d.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/1ba3e813-bc3f-3c63-a07a-82ed99656a6d.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/29b47250-4236-34ae-8b46-7341b800b727.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/29b47250-4236-34ae-8b46-7341b800b727.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/383d2669-dd1d-3bb6-9599-ddb9736fd75c.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/383d2669-dd1d-3bb6-9599-ddb9736fd75c.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/Test World/stats/3f18158e-f2c1-3129-a134-25632e6b98da.json" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/3f18158e-f2c1-3129-a134-25632e6b98da.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World-/stats/eb7081a5-32ec-3752-9cbc-963a701e6fdd.json" afterPath="$PROJECT_DIR$/run/saves/New World-/stats/eb7081a5-32ec-3752-9cbc-963a701e6fdd.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/usercache.json" afterPath="$PROJECT_DIR$/run/usercache.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/usernamecache.json" afterPath="$PROJECT_DIR$/run/usernamecache.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemTentEquipment.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemTentEquipment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/ClientProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/ClientProxy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang" />
     </list>
     <ignored path="CampCraft.iws" />
@@ -109,56 +92,123 @@
     <favorites_list name="CampCraft" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ModItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="147" column="1" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockCamoTentBase.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#getFabricType#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#getDoorType#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#getBedType#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#scanFoundation#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#ScanArea#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildNorthSmall#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildEastSmall#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildSouthSmall#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildWestSmall#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildNorthSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildEastSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildSouthSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildWestSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildNorthMedium#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildEastMedium#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildSouthMedium#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildWestMedium#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildNorthLarge#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildEastLarge#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildSouthLarge#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#buildWestLarge#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#onBlockAdded#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="method#canPlaceBlockAt#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="docComment;method#onBlockPlaced#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="docComment;method#getStateFromMeta#0;class#BlockCamoTentBase#0" expanded="false" />
-                <element signature="docComment;method#getMetaFromState#0;class#BlockCamoTentBase#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.80613893">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ModItems.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2055">
+                  <caret line="147" column="1" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BlockCamoTentBase.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3604">
+                  <caret line="866" column="99" selection-start-line="866" selection-start-column="99" selection-end-line="866" selection-end-column="99" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="method#getFabricType#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#getDoorType#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#getBedType#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#scanFoundation#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#ScanArea#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildNorthSmall#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildEastSmall#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildSouthSmall#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildWestSmall#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildNorthSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildEastSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildSouthSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildWestSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildNorthMedium#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildEastMedium#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildSouthMedium#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildWestMedium#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildNorthLarge#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildEastLarge#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildSouthLarge#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildWestLarge#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#onBlockAdded#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#canPlaceBlockAt#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="docComment;method#onBlockPlaced#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="docComment;method#getStateFromMeta#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="docComment;method#getMetaFromState#0;class#BlockCamoTentBase#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BlockCamoTent.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="606">
+                  <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="336">
+                  <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="BlockCamoTentBase.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="313">
+                  <caret line="684" column="20" selection-start-line="684" selection-start-column="20" selection-end-line="685" selection-end-column="20" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="method#getFabricType#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#getDoorType#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#getBedType#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#scanFoundation#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#ScanArea#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildNorthSmall#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildEastSmall#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildSouthSmall#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildNorthSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildEastSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildSouthSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildWestSmallEquipment#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildNorthMedium#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildEastMedium#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildSouthMedium#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildWestMedium#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildNorthLarge#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildEastLarge#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildSouthLarge#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#buildWestLarge#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#onBlockAdded#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="method#canPlaceBlockAt#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="docComment;method#onBlockPlaced#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="docComment;method#getStateFromMeta#0;class#BlockCamoTentBase#0" expanded="false" />
+                    <element signature="docComment;method#getMetaFromState#0;class#BlockCamoTentBase#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -238,13 +288,13 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/blockstates/bedPink.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModBlocks.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/proxy/ClientProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemTentEquipment.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/item/ItemCampHammer.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/models/item/campHammer.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java" />
       </list>
     </option>
   </component>
@@ -253,10 +303,9 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
     <option name="y" value="23" />
-    <option name="width" value="1281" />
-    <option name="height" value="773" />
+    <option name="width" value="1280" />
+    <option name="height" value="681" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -294,9 +343,7 @@
       <pane id="ProjectPane">
         <subPane />
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Project Files">
@@ -309,7 +356,9 @@
         </subPane>
         <subPane subId="Tests" />
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -637,7 +686,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1281" height="773" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="681" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -648,11 +697,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23011844" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32656515" sideWeight="0.4951535" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35416666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22920203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3248731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22213247" sideWeight="0.49227372" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53140914" sideWeight="0.49353796" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -664,7 +714,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53140914" sideWeight="0.49353796" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -712,7 +761,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1001,15 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="22" column="559" selection-start-line="22" selection-start-column="559" selection-end-line="22" selection-end-column="559" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1017,7 +1057,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,7 +1064,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,28 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="147" column="1" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1062,7 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1078,7 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,17 +1100,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2055">
+          <caret line="147" column="1" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/campcraft/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
           <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tomtomtom09/campcraft/block/BlockCamoTentBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        <state relative-caret-position="3604">
+          <caret line="866" column="99" selection-start-line="866" selection-start-column="99" selection-end-line="866" selection-end-column="99" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#getFabricType#0;class#BlockCamoTentBase#0" expanded="false" />
