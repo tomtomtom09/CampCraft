@@ -7,6 +7,7 @@ import net.minecraft.block.state.IBlockState;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Blocks;
 import net.minecraft.util.BlockPos;
+import net.minecraft.util.ChatComponentTranslation;
 import net.minecraft.util.EnumFacing;
 import net.minecraft.world.World;
 
@@ -27,19 +28,9 @@ public class BlockCamoTent extends BlockCamoTentBase
         boolean Open = false;
         Block block = worldIn.getBlockState(new BlockPos(pos.getX(), pos.getY() - 1, pos.getZ())).getBlock();
         EnumFacing tentMeta = state.getValue(FACING);
-        //System.out.println(areaId);
-        if (block.getMaterial() == null)
+        if (block.getMaterial() == Material.air)
         {
             Open = true;
-        }
-        if (Open)
-        {
-            if (TentSize == 1)
-            {
-                new BlockPos(pos.getX(), pos.getY() - 2, pos.getZ());
-            }
-            //else if (TentSize == 2) { j = j - 3; }
-            //else if (TentSize == 3) { j = j - 4; }
         }
         if (CampHammerEquipped(playerIn))
         {
@@ -65,6 +56,19 @@ public class BlockCamoTent extends BlockCamoTentBase
                         {
                             this.buildWestSmall(worldIn, pos);
                             this.buildWestSmallEquipment(worldIn, pos);
+                        }
+                    }
+                }
+            }
+            if(Open)
+            {
+                if (ScanFoldup(worldIn, pos, state, playerIn))
+                {
+                    if (TentSize == 1)
+                    {
+                        if (tentMeta == EnumFacing.NORTH) //North Tent
+                        {
+                            //TODO add block removal code
                         }
                     }
                 }

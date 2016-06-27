@@ -20,3 +20,8 @@ tile.tent.lvl3=Tentspace is not clear at level 3
 tile.tent.lvl4=Tentspace is not clear at level 4
 
 tile.tent.foundation=Foundation missing or not sturdy enough
+
+tile.tent.miss.lvl1=Fabric blocks missing on level 1 can't pack up.
+tile.tent.miss.lvl2=Fabric blocks missing on level 2 can't pack up.
+tile.tent.miss.lvl3=Fabric blocks missing on level 3 can't pack up.
+tile.tent.miss.lvl4=Fabric blocks missing on level 4 can't pack up.

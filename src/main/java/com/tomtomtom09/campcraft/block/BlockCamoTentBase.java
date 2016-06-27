@@ -22,7 +22,8 @@ public class BlockCamoTentBase extends BlockDirectional
 {
     public int TentSize;
     public int TentType;
-
+    public int[] areaId;
+    
     public BlockCamoTentBase(String unlocalizedName, int tentSize, int tentType)
     {
         super(Material.cloth);
@@ -34,7 +35,7 @@ public class BlockCamoTentBase extends BlockDirectional
         if (TentSize == 1)
         {
             //Lvl0Id = new int[24];
-            //areaId = new int[144];//51 = 26
+            areaId = new int[51];//51 = 26
         }
     }
 
@@ -620,6 +621,270 @@ public class BlockCamoTentBase extends BlockDirectional
                             }
                         }
                     }
+                }
+            }
+        }
+        return Test;
+    }
+
+    //TODO improve the check block code. Add check for equipment(bed/workbench/torch)
+    /**checks to make sure all tent blocks are not missing*/
+    public boolean ScanFoldup(World worldIn, BlockPos pos, IBlockState state, EntityPlayer playerIn)
+    {
+        EnumFacing tentMeta = state.getValue(FACING);
+        boolean Test = true;
+        Block fabric = ModBlocks.tentFabric;
+        IBlockState fabricState = fabric.getStateFromMeta(getFabricType(TentType));
+        int y = pos.getY() + 0;
+
+        if(TentSize == 1)
+        {
+            if(tentMeta == EnumFacing.NORTH)
+            {
+                /**Check Level 1*/
+                Block fabBlock1 = worldIn.getBlockState(new BlockPos(pos.getX() + 3,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock2 = worldIn.getBlockState(new BlockPos(pos.getX() + 3,pos.getY() - 2,pos.getZ() - 0)).getBlock();
+                Block fabBlock3 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock4 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock5 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() - 0)).getBlock();
+                Block fabBlock6 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock7 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock8 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock9 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock10 = worldIn.getBlockState(new BlockPos(pos.getX() - 3,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock11 = worldIn.getBlockState(new BlockPos(pos.getX() - 3,pos.getY() - 2,pos.getZ() - 0)).getBlock();
+                Block fabBlock12 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock13 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock14 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() - 0)).getBlock();
+                Block fabBlock15 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock16 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock17 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                /**Check Level 2*/
+                Block fabBlock18 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock19 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 1,pos.getZ() - 0)).getBlock();
+                Block fabBlock20 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 1,pos.getZ() - 2)).getBlock();
+                Block fabBlock21 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 1,pos.getZ() + 1)).getBlock();
+                Block fabBlock22 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock23 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 1,pos.getZ() - 0)).getBlock();
+                Block fabBlock24 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 1,pos.getZ() - 2)).getBlock();
+                Block fabBlock25 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 1,pos.getZ() + 1)).getBlock();
+                /**Check Level 3*/
+                Block fabBlock26 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 0,pos.getZ() - 1)).getBlock();
+                Block fabBlock27 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 0,pos.getZ() - 0)).getBlock();
+                Block fabBlock28 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 0,pos.getZ() - 2)).getBlock();
+                Block fabBlock29 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 0,pos.getZ() - 1)).getBlock();
+                Block fabBlock30 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 0,pos.getZ() + 1)).getBlock();
+                Block fabBlock31 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 0,pos.getZ() - 1)).getBlock();
+                Block fabBlock32 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 0,pos.getZ() - 0)).getBlock();
+                /**Check Level 4*/
+                Block fabBlock33 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock34 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 1,pos.getZ() - 0)).getBlock();
+                
+                if (fabBlock1 != fabric || fabBlock2 != fabric || fabBlock3 != fabric || fabBlock4 != fabric || fabBlock5 != fabric || fabBlock6 != fabric || fabBlock7 != fabric || fabBlock8 != fabric || fabBlock9 != fabric || fabBlock10 != fabric || fabBlock11 != fabric || fabBlock12 != fabric || fabBlock13 != fabric || fabBlock14 != fabric || fabBlock15 != fabric || fabBlock16 != fabric || fabBlock17 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl1", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock18 != fabric || fabBlock19 != fabric || fabBlock20 != fabric || fabBlock21 != fabric || fabBlock22 != fabric || fabBlock23 != fabric || fabBlock24 != fabric || fabBlock25 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl2", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock26 != fabric || fabBlock27 != fabric || fabBlock28 != fabric || fabBlock29 != fabric || fabBlock30 != fabric || fabBlock31 != fabric || fabBlock32 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl3", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock33 != fabric || fabBlock34 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl4", new Object[0]));
+                    Test = false;
+                }
+            }
+            else if(tentMeta == EnumFacing.EAST)
+            {
+                /**Check Level 1*/
+                Block fabBlock1 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() + 3)).getBlock();
+                Block fabBlock2 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() + 3)).getBlock();
+                Block fabBlock3 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock4 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock5 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock6 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock7 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock8 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock9 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() + 0)).getBlock();
+                Block fabBlock10 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock11 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock12 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock13 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock14 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock15 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock16 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() - 3)).getBlock();
+                Block fabBlock17 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() - 3)).getBlock();
+                /**Check Level 2*/
+                Block fabBlock18 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 1,pos.getZ() + 2)).getBlock();
+                Block fabBlock19 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 1,pos.getZ() + 2)).getBlock();
+                Block fabBlock20 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 1,pos.getZ() + 1)).getBlock();
+                Block fabBlock21 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 1,pos.getZ() + 1)).getBlock();
+                Block fabBlock22 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock23 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock24 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 1,pos.getZ() - 2)).getBlock();
+                Block fabBlock25 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 1,pos.getZ() - 2)).getBlock();
+                /**Check Level 3*/
+                Block fabBlock26 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 0,pos.getZ() + 1)).getBlock();
+                Block fabBlock27 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 0,pos.getZ() + 1)).getBlock();
+                Block fabBlock28 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() + 0,pos.getZ() + 0)).getBlock();
+                Block fabBlock29 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 0,pos.getZ() + 0)).getBlock();
+                Block fabBlock30 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 0,pos.getZ() + 0)).getBlock();
+                Block fabBlock31 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 0,pos.getZ() - 1)).getBlock();
+                Block fabBlock32 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 0,pos.getZ() - 1)).getBlock();
+                /**Check Level 4*/
+                Block fabBlock33 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 3,pos.getZ() + 0)).getBlock();
+                Block fabBlock34 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 3,pos.getZ() + 0)).getBlock();
+
+                if (fabBlock1 != fabric || fabBlock2 != fabric || fabBlock3 != fabric || fabBlock4 != fabric || fabBlock5 != fabric || fabBlock6 != fabric || fabBlock7 != fabric || fabBlock8 != fabric || fabBlock9 != fabric || fabBlock10 != fabric || fabBlock11 != fabric || fabBlock12 != fabric || fabBlock13 != fabric || fabBlock14 != fabric || fabBlock15 != fabric || fabBlock16 != fabric || fabBlock17 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl1", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock18 != fabric || fabBlock19 != fabric || fabBlock20 != fabric || fabBlock21 != fabric || fabBlock22 != fabric || fabBlock23 != fabric || fabBlock24 != fabric || fabBlock25 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl2", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock26 != fabric || fabBlock27 != fabric || fabBlock28 != fabric || fabBlock29 != fabric || fabBlock30 != fabric || fabBlock31 != fabric || fabBlock32 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl3", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock33 != fabric || fabBlock34 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl4", new Object[0]));
+                    Test = false;
+                }
+            }
+            else if(tentMeta == EnumFacing.SOUTH)
+            {
+                /**Check Level 1*/
+                Block fabBlock1 = worldIn.getBlockState(new BlockPos(pos.getX() - 3,pos.getY() - 2,pos.getZ() + 0)).getBlock();
+                Block fabBlock2 = worldIn.getBlockState(new BlockPos(pos.getX() - 3,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock3 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock4 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock5 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() + 0)).getBlock();
+                Block fabBlock6 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock7 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock8 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock9 = worldIn.getBlockState(new BlockPos(pos.getX() - 0,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock10 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock11 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock12 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock13 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock14 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() + 0)).getBlock();
+                Block fabBlock15 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock16 = worldIn.getBlockState(new BlockPos(pos.getX() + 3,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock17 = worldIn.getBlockState(new BlockPos(pos.getX() + 3,pos.getY() - 2,pos.getZ() + 0)).getBlock();
+                /**Check Level 2*/
+                Block fabBlock18 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 1,pos.getZ() + 0)).getBlock();
+                Block fabBlock19 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 1,pos.getZ() + 1)).getBlock();
+                Block fabBlock20 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 1,pos.getZ() + 2)).getBlock();
+                Block fabBlock21 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock22 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 1,pos.getZ() + 2)).getBlock();
+                Block fabBlock23 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock24 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 1,pos.getZ() + 0)).getBlock();
+                Block fabBlock25 = worldIn.getBlockState(new BlockPos(pos.getX() + 2,pos.getY() - 1,pos.getZ() + 1)).getBlock();
+                /**Check Level 3*/
+                Block fabBlock26 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 0,pos.getZ() + 0)).getBlock();
+                Block fabBlock27 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 0,pos.getZ() + 1)).getBlock();
+                Block fabBlock28 = worldIn.getBlockState(new BlockPos(pos.getX() - 0,pos.getY() + 0,pos.getZ() + 2)).getBlock();
+                Block fabBlock29 = worldIn.getBlockState(new BlockPos(pos.getX() - 0,pos.getY() + 0,pos.getZ() + 1)).getBlock();
+                Block fabBlock30 = worldIn.getBlockState(new BlockPos(pos.getX() - 0,pos.getY() + 0,pos.getZ() - 1)).getBlock();
+                Block fabBlock31 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 0,pos.getZ() + 1)).getBlock();
+                Block fabBlock32 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 0,pos.getZ() + 0)).getBlock();
+                /**Check Level 4*/
+                Block fabBlock33 = worldIn.getBlockState(new BlockPos(pos.getX() - 0,pos.getY() + 1,pos.getZ() + 0)).getBlock();
+                Block fabBlock34 = worldIn.getBlockState(new BlockPos(pos.getX() - 0,pos.getY() + 1,pos.getZ() + 1)).getBlock();
+
+                if (fabBlock1 != fabric || fabBlock2 != fabric || fabBlock3 != fabric || fabBlock4 != fabric || fabBlock5 != fabric || fabBlock6 != fabric || fabBlock7 != fabric || fabBlock8 != fabric || fabBlock9 != fabric || fabBlock10 != fabric || fabBlock11 != fabric || fabBlock12 != fabric || fabBlock13 != fabric || fabBlock14 != fabric || fabBlock15 != fabric || fabBlock16 != fabric || fabBlock17 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl1", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock18 != fabric || fabBlock19 != fabric || fabBlock20 != fabric || fabBlock21 != fabric || fabBlock22 != fabric || fabBlock23 != fabric || fabBlock24 != fabric || fabBlock25 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl2", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock26 != fabric || fabBlock27 != fabric || fabBlock28 != fabric || fabBlock29 != fabric || fabBlock30 != fabric || fabBlock31 != fabric || fabBlock32 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl3", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock33 != fabric || fabBlock34 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl4", new Object[0]));
+                    Test = false;
+                }
+            }
+            else if(tentMeta == EnumFacing.WEST)
+            {
+                /**Check Level 1*/
+                Block fabBlock1 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() + 3)).getBlock();
+                Block fabBlock2 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() + 3)).getBlock();
+                Block fabBlock3 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock4 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock5 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock6 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() + 2)).getBlock();
+                Block fabBlock7 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock8 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() + 1)).getBlock();
+                Block fabBlock9 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() + 0)).getBlock();
+                Block fabBlock10 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock11 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() - 1)).getBlock();
+                Block fabBlock12 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock13 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock14 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock15 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 2,pos.getZ() - 2)).getBlock();
+                Block fabBlock16 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 2,pos.getZ() - 3)).getBlock();
+                Block fabBlock17 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 2,pos.getZ() - 3)).getBlock();
+                /**Check Level 2*/
+                Block fabBlock18 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 1,pos.getZ() + 2)).getBlock();
+                Block fabBlock19 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 1,pos.getZ() + 2)).getBlock();
+                Block fabBlock20 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 1,pos.getZ() + 1)).getBlock();
+                Block fabBlock21 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 1,pos.getZ() + 1)).getBlock();
+                Block fabBlock22 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() - 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock23 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() - 1,pos.getZ() - 1)).getBlock();
+                Block fabBlock24 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() - 1,pos.getZ() - 2)).getBlock();
+                Block fabBlock25 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() - 1,pos.getZ() - 2)).getBlock();
+                /**Check Level 3*/
+                Block fabBlock26 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 0,pos.getZ() + 1)).getBlock();
+                Block fabBlock27 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 0,pos.getZ() + 1)).getBlock();
+                Block fabBlock28 = worldIn.getBlockState(new BlockPos(pos.getX() + 1,pos.getY() + 0,pos.getZ() + 0)).getBlock();
+                Block fabBlock29 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 0,pos.getZ() + 0)).getBlock();
+                Block fabBlock30 = worldIn.getBlockState(new BlockPos(pos.getX() - 2,pos.getY() + 0,pos.getZ() + 0)).getBlock();
+                Block fabBlock31 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 0,pos.getZ() - 1)).getBlock();
+                Block fabBlock32 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 0,pos.getZ() - 1)).getBlock();
+                /**Check Level 4*/
+                Block fabBlock33 = worldIn.getBlockState(new BlockPos(pos.getX() + 0,pos.getY() + 1,pos.getZ() + 0)).getBlock();
+                Block fabBlock34 = worldIn.getBlockState(new BlockPos(pos.getX() - 1,pos.getY() + 1,pos.getZ() + 0)).getBlock();
+
+                if (fabBlock1 != fabric || fabBlock2 != fabric || fabBlock3 != fabric || fabBlock4 != fabric || fabBlock5 != fabric || fabBlock6 != fabric || fabBlock7 != fabric || fabBlock8 != fabric || fabBlock9 != fabric || fabBlock10 != fabric || fabBlock11 != fabric || fabBlock12 != fabric || fabBlock13 != fabric || fabBlock14 != fabric || fabBlock15 != fabric || fabBlock16 != fabric || fabBlock17 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl1", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock18 != fabric || fabBlock19 != fabric || fabBlock20 != fabric || fabBlock21 != fabric || fabBlock22 != fabric || fabBlock23 != fabric || fabBlock24 != fabric || fabBlock25 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl2", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock26 != fabric || fabBlock27 != fabric || fabBlock28 != fabric || fabBlock29 != fabric || fabBlock30 != fabric || fabBlock31 != fabric || fabBlock32 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl3", new Object[0]));
+                    Test = false;
+                }
+                else if (fabBlock33 != fabric || fabBlock34 != fabric)
+                {
+                    playerIn.addChatMessage(new ChatComponentTranslation("tile.tent.miss.lvl4", new Object[0]));
+                    Test = false;
                 }
             }
         }
